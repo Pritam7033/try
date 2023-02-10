@@ -1,0 +1,21 @@
+body{
+  background-color: #E4f6f6;
+}
+hr{
+      border-width: 5px;
+      border-style: dotted none none;
+      border-color: grey;
+      background-color: #E4f6f6;
+      width:5%;
+
+}
+table{
+  cellspacing:3px;
+}
+h1,h3{
+  color:#66bfbf;
+}
+img{
+  height: 200px;
+  width:200px;
+}
